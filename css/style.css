@@ -84,7 +84,7 @@ button {
     border-radius: 12px;
     margin-left: 25px;
     margin-right: 25px;
-    background: linear-gradient(to bottom,#631E6F 0%,#3a1244 100%,#220D25 100%);
+    background: linear-gradient(to bottom,#7d248c 0%,#3a1244 100%,#220D25 100%);
     padding-bottom: 15px;
     margin-top: 15px;
 }
@@ -139,12 +139,12 @@ button {
 @media screen and (max-width: 768px) {
 
     body {
-        overflow-y: auto; /* permite rolagem */
+        overflow-y: auto; 
     }
 
     .container {
         width: 95%;
-        transform: scale(1); /* remove scale no mobile */
+        transform: scale(1); 
         margin: 10px auto;
         padding-top: 15px;
     }
@@ -169,7 +169,7 @@ button {
     }
 
     .flex-logos {
-        flex-direction: column; /* vira coluna */
+        flex-direction: column;
         align-items: center;
     }
 
