@@ -48,7 +48,7 @@ input {
     margin-right: 25px;
     background: linear-gradient(to bottom,#631E6F 0%,#3a1244 100%,#220D25 100%);
 }
-
+ 
 .flex-header-box {
     display: flex;
     flex-direction: column;
